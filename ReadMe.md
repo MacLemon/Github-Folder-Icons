@@ -5,6 +5,9 @@ Created by Pepi Zawodsky, based on awesome Github original artwork from the [Okt
 My Github Profile: [MacLemon's Profile][4]  
 You can also find me on Twitter: [@MacLemon][3]  
 
+See Screenshot.png to decicde if you like the icons withou having to clone the repo first.
+
+
 Enjoy!
 Pepi
 
