@@ -5,8 +5,7 @@ Created by Pepi Zawodsky, based on awesome Github original artwork from the [Okt
 My Github Profile: [MacLemon's Profile][4]  
 You can also find me on Twitter: [@MacLemon][3]  
 
-See this screenshot to decicde if you like the icons withou having to clone the repo first.
-![Folder Icons Screenshot](https://github.com/MacLemon/Github-Folder-Icons/blob/master/Screenshot.png "Screenshot.png")
+See this [Folder Icons Screenshot][11] to decicde if you like the icons withou having to clone the repo first.
 
 Enjoy!
 Pepi
@@ -54,3 +53,4 @@ Thanks to the Github legal team for understanding the value of fan made art and 
 [8]:http://octodex.github.com/#original "Original Octocat"
 [9]:http://www.idokungfoo.com/ "Simon Oxley"
 [10]:http://octodex.github.com/#nyantocat "Nyantocat"
+[11]:https://github.com/MacLemon/Github-Folder-Icons/blob/master/Screenshot.png "Folder Icons Screenshot.png"
