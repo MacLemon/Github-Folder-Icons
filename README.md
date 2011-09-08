@@ -21,6 +21,13 @@ Links to the original artwork and their artists used for the folders are also pr
 - Repository (Nyantocat) based on [Nyantocat][10] by [Cameron McEfee][7]
 
 
+## How to I use these things?
+Clone the repository to your desired location:
+    git clone git://github.com/MacLemon/Github-Folder-Icons.git
+Unzip the Github Folder Icons.zip. In there you'll find some folders with the custom icons. To apply one of these to your repository folder get info (by pressing ⌘I) on the folder, click on the icon in the upper left of the information dialog and copy (by pressing ⌘C). Get info on your target folder and paste the icon likewise.
+You can get elaborate instructions in Apple knowledge base article [TA20788][12]
+
+
 ## Thanks to these support staff people for their help
 * Chris Wanstrath
 * Melissa Severini
@@ -54,3 +61,4 @@ Thanks to the Github legal team for understanding the value of fan made art and 
 [9]:http://www.idokungfoo.com/ "Simon Oxley"
 [10]:http://octodex.github.com/#nyantocat "Nyantocat"
 [11]:https://github.com/MacLemon/Github-Folder-Icons/blob/master/Screenshot.png "Folder Icons Screenshot.png"
+[12]:http://support.apple.com/kb/TA20788?viewlocale=en_US "Mac OS X: How to Use Custom Icons"
