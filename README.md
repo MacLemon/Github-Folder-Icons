@@ -22,9 +22,7 @@ Links to the original artwork and their artists used for the folders are also pr
 
 
 ## How to I use these things?
-Clone the repository to your desired location:
-    git clone git://github.com/MacLemon/Github-Folder-Icons.git
-Unzip the Github Folder Icons.zip. In there you'll find some folders with the custom icons. To apply one of these to your repository folder get info (by pressing ⌘I) on the folder, click on the icon in the upper left of the information dialog and copy (by pressing ⌘C). Get info on your target folder and paste the icon likewise.
+Download and unzip the [Github Folder Icons.zip][13]. In there you'll find some folders with the custom icons. To apply one of these to your repository folder get info (by pressing ⌘I) on the folder, click on the icon in the upper left of the information dialog and copy (by pressing ⌘C). Get info on your target folder and paste the icon likewise.
 You can get elaborate instructions in Apple knowledge base article [TA20788][12]
 
 
@@ -62,3 +60,4 @@ Thanks to the Github legal team for understanding the value of fan made art and 
 [10]:http://octodex.github.com/#nyantocat "Nyantocat"
 [11]:https://github.com/MacLemon/Github-Folder-Icons/blob/master/Screenshot.png "Folder Icons Screenshot.png"
 [12]:http://support.apple.com/kb/TA20788?viewlocale=en_US "Mac OS X: How to Use Custom Icons"
+[13]:https://github.com/MacLemon/Github-Folder-Icons/blob/master/Github%20Folder%20Icons.zip?raw=true "Github Folder Icons Zip"
